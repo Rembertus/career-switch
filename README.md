@@ -10,7 +10,7 @@ npm run test
 ![Result Test](career-switch-test.jpg)
 
 ### EndPoints for Postman
-<strong>Gettokenemail  </strong>  
+<strong>Get Token From Email  </strong>  
 GET http://127.0.0.1:3000/api/gettokenemail  
 
 <strong>Sort Block List  </strong>  
